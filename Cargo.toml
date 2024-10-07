@@ -1,5 +1,5 @@
 [package]
-name = "ZFS-Webmanager-Master"
+name = "ZFS-Webmanager"
 version = "0.1.0"
 edition = "2021"
 
