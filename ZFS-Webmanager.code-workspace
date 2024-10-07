@@ -1,9 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "."
-		},
-		{
 			"path": "../ZFS-Webmanager-Agent"
 		}
 	],
